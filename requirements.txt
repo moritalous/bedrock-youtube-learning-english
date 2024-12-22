@@ -1,0 +1,4 @@
+boto3
+streamlit
+langchain_community
+youtube-transcript-api
